@@ -1,0 +1,1 @@
+carDataManageSystem是一个汽车数据管理系统，它能接入数据库并在网页中显示，运用了ruoyi框架，MySQL，redis，Kafka，zookeeper，hdfs分布式文件管理系统，yarn（Hadoop资源调度框架），能在Linux系统运行并通过IP地址实现网页的访问
